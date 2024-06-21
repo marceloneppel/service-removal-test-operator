@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/charm.py
+src/charm.egg-info/PKG-INFO
+src/charm.egg-info/SOURCES.txt
+src/charm.egg-info/dependency_links.txt
+src/charm.egg-info/top_level.txt
